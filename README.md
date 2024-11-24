@@ -29,7 +29,8 @@ The script is built to work with the GEO dataset **GSE113865**, but it can be ad
    ```bash
    git clone https://github.com/sananooor/illumina-data-analysis.git
 
-   Open the R script Finalscript-illumina.R in your R IDE (RStudio recommended).
+
+Open the R script Finalscript-illumina.R in your R IDE (RStudio recommended).
 
    Ensure all required libraries are installed: R
    if (!requireNamespace("BiocManager", quietly = TRUE))
